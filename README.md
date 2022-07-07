@@ -19,7 +19,7 @@
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /><br><br>
 
 - Database languages I know
-<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="mssql" width="70" src="./img/microsoft-sql-server.svg" style="padding-right:10px;" />
 <br><br>
 
 - <h4>Top languages<h4>
