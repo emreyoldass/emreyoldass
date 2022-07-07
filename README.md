@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on C# and Unity
 - 🌱 I’m currently learning Unity
-- [![website](./img/globe-dark.svg)](http://emreyoldas.tk#gh-dark-mode-only) This is my website: https://emreyoldas.tk
+- [![website](./img/globe-dark.svg)](http://emreyoldas.tk#gh-dark-mode-only) This is my website: http://emreyoldas.tk
 - 📫 How to reach me: 
 &nbsp;[![website](./img/instagram-dark.svg)](https://www.instagram.com/emre.yoldas/#gh-dark-mode-only)
 &nbsp;&nbsp;[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emre-yoldass/#gh-dark-mode-only)
