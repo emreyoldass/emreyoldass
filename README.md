@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on C# and Unity
 - 🌱 I’m currently learning Unity
 - 🌐  This is my website: [![website](./img/globe-dark.svg)](http://emreyoldas.tk#gh-dark-mode-only)
