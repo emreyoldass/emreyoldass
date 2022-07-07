@@ -6,7 +6,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C# and Unity
 - 🌱 I’m currently learning Unity
-- 📫 How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emre.yoldas/)
+- 📫 How to reach me: 
+[![website](./img/instagram-light.svg)](https://www.instagram.com/emre.yoldas/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/emre.yoldas/#gh-dark-mode-only)
+
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/emre-yoldass/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emre-yoldass/#gh-dark-mode-only)
