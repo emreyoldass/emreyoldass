@@ -1,36 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=7000FF&background=0000003B&center=true&vCenter=true&lines=Hi%2C+I'm+Emre+Yolda%C5%9F;I+love+software)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on C# and Unity
-- 🌱 I’m currently learning Unity
-- [![website](./img/globe-dark.svg)](http://emreyoldas.tk#gh-dark-mode-only) This is my website: http://emreyoldas.tk
-- 📫 How to reach me: 
-&nbsp;[![website](./img/instagram-dark.svg)](https://www.instagram.com/emre.yoldas/#gh-dark-mode-only)
-&nbsp;&nbsp;[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emre-yoldass/#gh-dark-mode-only)
+# 💫 About Me:
+-🔭 I’m currently working on c# <br>-👯 I’m looking to collaborate on<br>-🌱 I’m currently learning java and react<br>- 👩‍💻 I’m looking to collaborate with other c# or java   <br>- 🤔 I’m looking for help with java<br>- ⚡ Fun fact: I love to swim 🏊‍♀️, play basketball 🏀<br>- 👨‍🎓I studied computer programming and finished my department first.
 
-- I know these programming languages well C#, Html and CSS
 
-<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" /><br><br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emre.yoldas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emre-yoldass/) 
 
-- I know little about these programming languages Java And kotlin<br><br>
-<img align="left" alt="kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
-<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /><br><br>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emreyoldass&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emreyoldass&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyoldass&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- Database languages I know
-<img align="left" alt="mssql" width="70" src="./img/microsoft-sql-server.svg" style="padding-right:10px;" />
-<br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emreyoldass&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- <h4>Top languages<h4>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyoldass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-  - <h4>Github Analytics</h4> 
-  
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emreyoldass&show_icons=true&theme=radical)
-
-  
+##
 <table class="table table-bordered table-dark">
   <thead >
     <tr>
@@ -49,3 +36,13 @@
     </tr>
   </tbody>
 </table>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=emreyoldass&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+  
+
